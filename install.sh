@@ -55,7 +55,7 @@ yum -y  install python2.8 python2.8-devel unzip
 yum -y  install python3 python3-devel unzip
 fi
 cd /root
-wget https://panel.miradiofm.top/XUI_1.5.12.zip -O XUI_1.5.12.zip
+wget https://www.dropbox.com/s/mmjw8eup4m2go9p/XUI_1.5.12.zip -O XUI_1.5.12.zip
 unzip XUI_1.5.12.zip
 wget https://raw.githubusercontent.com/joanparcki/xui/main/install.python3 -O /root/install.python3
 python3 /root/install.python3
